@@ -1,3 +1,79 @@
+# Matchmaking Project - Finding Your Perfect Match with Ease! ❤️✨
+
+
+## ❗❗--This project is a simulation for a project that will hopefully be developed soon 🚀 in depth (client-side + server-side) 📈 based on a real database 🗄️.--❗❗
+
+
+### Project Goal
+The main goal of this project is to provide a simple and accessible solution for matchmakers and individuals to find a match for themselves or their loved ones, using a tool that allows for initial filtering based on objective data.
+
+### Program Scope
+Initial Filtering Only - The program is based on objective data entered into the system for initial filtering purposes.
+
+Matchmaking Database Management - Easy and convenient management of a candidate database, including adding, searching, and deleting.
+
+### Program Features:
+✔️ Add a Candidate (Male or Female) to the Database
+✔️ New candidates can be entered into the database with technical details.
+
+✔️ Delete an Engaged Candidate (Male or Female)
+✔️ Option to delete a candidate by ID number.
+
+### Search for a Match by Technical Details
+You can search based on predefined criteria.
+
+### Delete Search Form
+Upon completion of use, the client can delete search results to maintain privacy.
+
+### Handling Special Cases ⚠️
+✔️ Deleting an Invalid or Non-Existent Form: The program checks the validity of the form and prevents the deletion of incorrect or non-existent forms in the system.
+
+✔️ Handling Invalid Input: The system identifies invalid input and provides appropriate feedback to the user.
+
+### Summary
+This project was built with an emphasis on user convenience and adaptation to the unique needs of the target audience. The system maintains privacy, provides tools for easy database management, and enables a quick process for finding a match.
+
+Good luck finding your perfect match! ❤️✨
+
+### Installation and Running
+✔️ Ensure Python version 3.7 or higher is installed on your computer.
+✔️ Clone the repository to your computer.
+✔️ Install the necessary packages using the command pip install -r requirements.txt.
+✔️ Run the program using the command python main.py.
+
+### Contributing to the Project
+We welcome contributions to the project! If you have ideas for improvements or bug fixes, please open an issue or a pull request.
+
+----------------------
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## פרויקט שידוכים - מציאת הזיווג המושלם בקלות! ❤️✨
